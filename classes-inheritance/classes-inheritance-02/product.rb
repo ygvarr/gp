@@ -9,4 +9,8 @@ class Product
 
   def to_s
   end
+
+  def self.from_file(file_path)
+    raise NotImplementedError
+  end
 end
