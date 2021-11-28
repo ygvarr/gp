@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<business_card>
+  <first_name>Ivan</first_name>
+  <second_name>Ivanovich</second_name>
+  <last_name>Ivanov</last_name>
+  <phone>+7 777 777-77-77</phone>
+  <email>ivanov@gmail.com</email>
+  <skills>Ruby</skills>
+</business_card>
