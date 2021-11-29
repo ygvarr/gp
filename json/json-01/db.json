@@ -1,0 +1,9 @@
+{
+  "firstname": "Alex",
+  "lastname": "Gray",
+  "contacts": {
+    "phone": "+7 777 777-77-77",
+    "mail": "gray@world.com"
+  },
+  "skills": "driving"
+}
